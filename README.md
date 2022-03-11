@@ -1,24 +1,19 @@
-# Simplest-Startup-Starter
+<h1 align="center">Hi 👋, I'm Carlos</h1>
+<h3 align="center">Full-stack software engineer from Spain based in NYC</h3>
 
-Bare bones HTML landing page template, focused on engagement and conversion.
-## Demo
 
-See https://bdavidxyz.github.io/simplest-startup-starter/
+- 👨‍💻 My (non-NDA) projects are available at [https://carloscampoy.netlify.app/](https://carloscampoy.netlify.app/)
 
-## Motivation
 
-Blog article is here http://bdavidxyz.com/blog/the-simplest-landing-page/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lospoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lospoy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carloscampoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloscampoy" height="30" width="40" /></a>
+</p>
 
-## Installation, beginner mode
 
-1. Subscribe to [crisp.im](https://crisp.im), [google analytics](https://analytics.google.com), and [formspree](https://formspree.io/) (for the latter there is no subscription, just be aware of the email you will use to collect visitor's email)
-2. (optional) Create some products at [payfacile.com](https://www.payfacile.com/)
-3. Clone or fork or download this repository.
-4. Open custom.js and replace GOOGLE_ANALYTICS_ID, CRISP_IM_ID, and FORMSPREE_EMAIL with ids collected at stage 1.
-5. Open index.html and replace all String that starts with https://www.payfacile.com/simpleststartupstart/s/ (3 occurences) with your the products you created at stage 2.
-6. Replace content of index.html with your own content.
-7. Now you are ready to promote your business. You can deploy the page at [GitHub Pages](https://pages.github.com/), or any other plaform you'd like to.
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-## Installation, expert mode
-
-Go to the "docs" branch of this repository and follow instructions.
+<h3 align="left">Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
