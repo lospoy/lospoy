@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Full-stack software engineer from Spain based in NYC</h3>
+<h3 align="center">Full stack software developer from Spain based in NYC</h3>
 <br>
 <h3 align="left">Projects:</h3>
 https://carloscampoy.netlify.app
