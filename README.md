@@ -8,7 +8,7 @@
 <br>
 I have over a decade of experience in tech, including in the US, the UK, Japan, and Spain. Starting as a business and e-commerce analyst, I saw firsthand how technical solutions could transform businesses. More personally, I respected the creativity and expertise of my engineering peers in creating efficient, impactful solutions.
 <br><br>
-At the age of 30, I transitioned into software development. Since then, I've created custom CRMs, websites/webapps, APIs, and other tools for several businesses. I'm always on the lookout for interesting challenges and opportunities to develop.
+At the age of 30, I transitioned into software development. Since then, I've created fullstack web applications, custom CRMs, websites, APIs, and other tools for several businesses. I'm always on the lookout for interesting challenges and opportunities to develop.
 <br><br>
 <h3 align="center">Things I code with</h3>
 <p align="center">
