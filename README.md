@@ -10,7 +10,7 @@ I have over a decade of experience in tech, including in the US, the UK, Japan, 
 <br><br>
 At the age of 30, I transitioned into software development. Since then, I've created fullstack web applications, custom CRMs, websites, APIs, and other tools for several businesses. I'm always on the lookout for interesting challenges and opportunities to develop.
 <br><br>
-<h3 align="center">Things I code with</h3>
+<h3 align="center">I typically work with</h3>
 <p align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
