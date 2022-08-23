@@ -19,5 +19,5 @@ At the age of 30, I transitioned into software development. Since then, I've cre
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-ReactJS-0088CC?style=for-the-badge&logo=react&logoColor=white" />
-  
+  <img alt="Vue" src="https://img.shields.io/badge/-VueJS-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
