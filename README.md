@@ -27,5 +27,4 @@ At the age of 30, I transitioned into software development. Since then, I've cre
   <img alt="React" src="https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-499fc4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-435466?style=for-the-badge&logo=vuetify&logoColor=white" />
 </p>
