@@ -7,9 +7,9 @@
   <a href="https://twitter.com/lospoy"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" /></a>
 </p>
 <br>
-I have over a decade of experience in tech, including in the US, the UK, Japan, and Spain. Starting as a business and e-commerce analyst, I saw firsthand how technical solutions could transform businesses. More personally, I respected the creativity and expertise of my engineering peers in creating efficient, impactful solutions.
+I have over a decade of experience in tech. Starting as a business and e-commerce analyst, I transitioned into web development and SaaS.
 <br><br>
-At the age of 30, I transitioned into software development. Since then, I've created fullstack web applications, websites, APIs, and other tools. I'm always on the lookout for interesting challenges and opportunities to develop.
+I've created fullstack web applications, websites, APIs, and other tools. I'm always on the lookout for interesting challenges and opportunities to develop.
 <br><br>
 <h3 align="center">I typically work with</h3>
 <p align="center">
