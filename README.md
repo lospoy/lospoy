@@ -7,9 +7,11 @@
   <a href="https://twitter.com/lospoy"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" /></a>
 </p>
 <br>
-I have over a decade of experience in tech. Starting as a business and e-commerce analyst, I transitioned into web development and SaaS.
+I have over a decade of experience in tech. Starting as a business and e-commerce analyst, I transitioned into web development and SaaS. I've created fullstack web applications, websites, APIs, and other tools.
 <br><br>
-I've created fullstack web applications, websites, APIs, and other tools. I'm always on the lookout for interesting challenges and opportunities to develop.
+I'm based in NYC and also have experience working in the UK, Japan, and Spain.
+<br><br>
+In my spare time I teach BJJ, build PCs, and eat pizza 🍕
 <br><br>
 <h3 align="center">I typically work with</h3>
 <p align="center">
