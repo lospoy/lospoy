@@ -32,5 +32,14 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
 </p>
 <br>
 
-# Project showcase
-
+## Sample project
+<div align="center">
+  <a href="https://bjjfocus.com">
+    <img src="https://u.cubeupload.com/aa9988vvb/337cover.png" width="70%">
+  </a>
+</div>
+<br>
+<p align="center">
+  <a href="https://bjjfocus.com">Live Site</a> •
+  <a href="https://github.com/lospoy/bjj-focus-vue">Github repo</a>
+</p>
