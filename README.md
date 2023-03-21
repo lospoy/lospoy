@@ -7,12 +7,18 @@
 </p>
 
 <br>
+
+<div align="center">
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 I have over a decade of experience in tech. Starting as a business and e-commerce analyst, I transitioned into web development and SaaS. I've created fullstack web applications, websites, APIs, and other tools.
 <br><br>
 I'm based in NYC and also have experience working in the UK, Japan, and Spain.
 <br><br>
 In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
-<br><br>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+</div>
+
+<br>
 <h3 align="center">I typically work with</h3>
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-c4af0e?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -32,7 +38,7 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
 </p>
 <br>
 
-## Recent project
+<h3 align="center">Recent Project</h3>
 <div align="center">
   <a href="https://bjjfocus.com">
     <img src="https://u.cubeupload.com/aa9988vvb/337cover.png" width="70%">
