@@ -27,7 +27,7 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
   <img alt="React" src="https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-499fc4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-aeddff?style=for-the-badge&logo=Vuetify&logoColor=white" />
+  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-aeddff?style=for-the-badge&logo=Vuetify&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-533a7a?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -38,6 +38,7 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
 <h3 align="center">Currently getting into</h3>
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/-Go-6ad7e5?style=for-the-badge&logo=go&logoColor=black" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 <br>
 
