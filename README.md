@@ -58,7 +58,7 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
 
 <h3 align="center">Recent Project</h3>
 <div align="center">
-  <a href="https://bjjfocus.com">
+  <a href="https://github.com/lospoy/bjj-focus-vue">
     <img src="https://u.cubeupload.com/aa9988vvb/337cover.png" width="70%">
   </a>
 </div>
