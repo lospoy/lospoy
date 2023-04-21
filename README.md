@@ -1,9 +1,8 @@
 <img src="https://u.cubeupload.com/aa9988vvb/covergithub.png" width="100%">
 <p align="center">
   <a href="https://linkedin.com/in/carloscampoy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&labelColor=blue&logo=linkedin" /></a>
-  <a href="https://carloscampoy.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/-Website-bb8be8?style=for-the-badge&labelColor=bb8be8&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://github.com/lospoy/bjj-focus-vue"><img alt="Recent Project" src="https://img.shields.io/badge/-Recent_Project-cd99ff?style=for-the-badge&logo=Github&logoColor=black" /></a>
   <a href="https://carloscampoy.netlify.app/#work"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-060936?style=for-the-badge&labelColor=060936&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://twitter.com/lospoy"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" /></a>
 </p>
 
 <br>
