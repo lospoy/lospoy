@@ -32,7 +32,6 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
   <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3975a8?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-697cb5?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 <h3 align="center">Currently getting into</h3>
