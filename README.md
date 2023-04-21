@@ -19,24 +19,39 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
 </div>
 
 <br>
-<h3 align="center">I typically work with</h3>
+<h3 align="center">Fluent at</h3>
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-c4af0e?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2875c3?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br>
-  <img alt="React" src="https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-323232?style=for-the-badge&logo=Express&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <br>
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-499fc4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-aeddff?style=for-the-badge&logo=Vuetify&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-533a7a?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-697cb5?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-13aa52?style=for-the-badge&logo=mongoosedb&logoColor=white" />
+  
 </p>
-<h3 align="center">Currently getting into</h3>
+<h3 align="center">Familiar with</h3>
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/-Go-6ad7e5?style=for-the-badge&logo=go&logoColor=black" />
+  <img alt="Gin" src="https://img.shields.io/badge/-Gin-6ad7e5?style=for-the-badge&logo=Gin&logoColor=black" />
+  <img alt="GORM" src="https://img.shields.io/badge/-GORM-6ad7e5?style=for-the-badge&logo=GORM&logoColor=black" />
+  <img alt="Fiber" src="https://img.shields.io/badge/-Fiber-6ad7e5?style=for-the-badge&logo=fiber&logoColor=black" />
+  <br>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2875c3?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br>
+  <img alt="React" src="https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-744abb?style=for-the-badge&logo=Redux&logoColor=white" />
+  <br>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-697cb5?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+</p>
+<h3 align="center">Working on next</h3>
+<p align="center">
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 <br>
