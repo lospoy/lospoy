@@ -36,9 +36,6 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
 <h3 align="center">Familiar with</h3>
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/-Go-6ad7e5?style=for-the-badge&logo=go&logoColor=black" />
-  <img alt="Gin" src="https://img.shields.io/badge/-Gin-6ad7e5?style=for-the-badge&logo=Gin&logoColor=black" />
-  <img alt="GORM" src="https://img.shields.io/badge/-GORM-6ad7e5?style=for-the-badge&logo=GORM&logoColor=black" />
-  <img alt="Fiber" src="https://img.shields.io/badge/-Fiber-6ad7e5?style=for-the-badge&logo=fiber&logoColor=black" />
   <br>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2875c3?style=for-the-badge&logo=typescript&logoColor=white" />
   <br>
