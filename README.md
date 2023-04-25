@@ -45,13 +45,6 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-697cb5?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-</p>
-<h3 align="center">Working on next</h3>
-<p align="center">
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-<br>
-
 <h3 align="center">Recent Project</h3>
 <div align="center">
   <a href="https://github.com/lospoy/bjj-focus-vue">
