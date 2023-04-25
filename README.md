@@ -9,7 +9,7 @@
 
 <div>
 <dd><dl><dd><dl><dd><dl>
-I have over a decade of experience in tech. Starting as a business and e-commerce analyst, I transitioned into web development and SaaS. I've created fullstack web applications, websites, APIs, and other tools.
+I have a decade of experience in tech. Starting as a business and e-commerce analyst and product dev, I transitioned into web development and SaaS. I've created fullstack web applications, websites, APIs, and other tools.
 <br><br>
 I'm based in NYC and also have experience working in the UK, Japan, and Spain.
 <br><br>
