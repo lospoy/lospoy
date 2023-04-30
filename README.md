@@ -18,7 +18,7 @@ In my spare time, I teach Brazilian Jiu Jitsu, build PCs, and eat pizza. 🍕
 </div>
 
 <br>
-<h3 align="center">Fluent at</h3>
+<h3 align="center">Typically work with</h3>
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-c4af0e?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
