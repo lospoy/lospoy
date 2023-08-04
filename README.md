@@ -38,6 +38,7 @@ In my spare time, I teach jūjutsu, build PCs, and eat pizza. 🍕
 <h3 align="center">Familiar with</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/-React_Native-282c34?style=for-the-badge&logo=react&native&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-744abb?style=for-the-badge&logo=Redux&logoColor=white" />
   <br>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-697cb5?style=for-the-badge&logo=php&logoColor=white" />
