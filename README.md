@@ -24,22 +24,17 @@ In my spare time, I teach jūjutsu, build PCs, and eat pizza. 🍕
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2875c3?style=for-the-badge&logo=typescript&logoColor=white" />
   <br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-323232?style=for-the-badge&logo=Express&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <br>
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-499fc4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-aeddff?style=for-the-badge&logo=Vuetify&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-533a7a?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-13aa52?style=for-the-badge&logo=mongoosedb&logoColor=white" />
   
 </p>
 <h3 align="center">Familiar with</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-React_Native-282c34?style=for-the-badge&logo=react&native&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-744abb?style=for-the-badge&logo=Redux&logoColor=white" />
   <br>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-697cb5?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3475a8?style=for-the-badge&logo=python&logoColor=white" />
