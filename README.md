@@ -27,7 +27,6 @@ In my spare time, I teach jūjutsu, build PCs, and eat pizza. 🍕
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-499fc4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   
 </p>
 <h3 align="center">Familiar with</h3>
