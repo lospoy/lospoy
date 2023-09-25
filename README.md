@@ -11,7 +11,7 @@ I have a decade of experience in tech. Starting as a business and e-commerce ana
 <br><br>
 I'm based in NYC and also have experience working in the UK, Japan, and Spain.
 <br><br>
-In my spare time, I teach jūjutsu, build PCs, and eat pizza. 🍕
+In my spare time, I teach BJJ, build PCs, and eat pizza. 🍕
 </dd></dl></dd></dl></dd></dl>
 </div>
 
