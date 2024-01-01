@@ -39,21 +39,7 @@ In my spare time, I teach BJJ, build PCs, and eat pizza. 🍕
   <img alt="Vite" src="https://img.shields.io/badge/-vite-b23efa?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=Next.JS&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  
 </p>
-<br>
-<h3 align="center">Recent Project</h3>
-<div align="center">
-  <a href="https://github.com/lospoy/bjj-focus-vue">
-    <img src="https://u.cubeupload.com/aa9988vvb/337cover.png" width="50%">
-  </a>
-</div>
-<p align="center">
-  <a href="https://bjjfocus.com"><img alt="Live Site" src="https://img.shields.io/badge/-Live_Site-d8c93b?style=for-the-badge&labelColor=d8c93b&logo=Google-Chrome&logoColor=black"/></a>
-  <a href="https://github.com/lospoy/bjj-focus-vue"><img alt="Github Repo" src="https://img.shields.io/badge/-Github_Repo-292c2d?style=for-the-badge&logo=Github&logoColor=white" /></a>
-</p>
-<br>
 <h3 align="center">Currently developing</h3>
 <div align="center">
     <img src="https://u.cubeupload.com/aa9988vvb/pokepokecover.png" width="50%">
