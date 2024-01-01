@@ -40,10 +40,3 @@ In my spare time, I teach BJJ, build PCs, and eat pizza. 🍕
   <img alt="NextJS" src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=Next.JS&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-<h3 align="center">Currently developing</h3>
-<div align="center">
-    <img src="https://u.cubeupload.com/aa9988vvb/pokepokecover.png" width="50%">
-</div>
-<p align="center">
-  <a href="https://github.com/lospoy/pokepoke"><img alt="Github Repo" src="https://img.shields.io/badge/-Github_Repo-292c2d?style=for-the-badge&logo=Github&logoColor=white" /></a>
-</p>
