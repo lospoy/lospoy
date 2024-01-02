@@ -24,15 +24,11 @@ In my spare time, I teach BJJ, build PCs, and eat pizza. 🍕
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-499fc4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-aeddff?style=for-the-badge&logo=Vuetify&logoColor=white" />
   <br>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-697cb5?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3475a8?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-6ad7e5?style=for-the-badge&logo=go&logoColor=black" />
   <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="PlanetScale" src="https://img.shields.io/badge/-Planetscale-000000?style=for-the-badge&logo=Planetscale&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-5a67d8?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-398ccb?style=for-the-badge&logo=tRPC&logoColor=white" />
   <br>
