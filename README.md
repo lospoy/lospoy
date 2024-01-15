@@ -8,11 +8,11 @@
 
 <div>
 <dd><dl><dd><dl><dd><dl>
-I have a decade of experience in tech. Starting as a business and e-commerce analyst and product dev, I transitioned into web development and SaaS. I've created fullstack web applications, websites, REST APIs, and other tools.
+I'm a software engineer with a decade of experience in tech business management, product development, data analysis, and customer service.
 <br><br>
-I'm based in NYC and also have experience working in the UK, Japan, and Spain.
+I used to be a musician and guitar specialist at a tiny shop in southern Spain, then pivoted to business and product development and worked in the UK, Japan, Spain, and the US. To solve business problems more effectively, I started coding 2018. Since then, I've transitioned to programming full-time, creating fullstack applications, websites, designing and implementing APIs/databases/UX flows, and so on.
 <br><br>
-In my spare time, I teach BJJ, build PCs, and eat pizza. 🍕
+In my spare time, I run a community tech event, teach and compete in jujitsu, build PCs, and eat pizza 🍕
 </dd></dl></dd></dl></dd></dl>
 </div>
 
