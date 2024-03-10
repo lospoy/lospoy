@@ -30,7 +30,6 @@ In my spare time, I run a community tech event, teach and compete in jujitsu, bu
   <img alt="Python" src="https://img.shields.io/badge/-Python-3475a8?style=for-the-badge&logo=python&logoColor=white" />
   <br>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-5a67d8?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-398ccb?style=for-the-badge&logo=tRPC&logoColor=white" />
   <br>
   <img alt="Vite" src="https://img.shields.io/badge/-vite-b23efa?style=for-the-badge&logo=vite&logoColor=white" />
