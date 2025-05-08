@@ -13,7 +13,7 @@
 ### Find Me Around
 - Writing about verification on [Medium](https://medium.com/@lospoy)
 - Building with the [Astoria Tech](https://www.meetup.com/astoria-tech-meetup/) community
-- DevCon, ETH Denver, Token2049, ECC, MegaZu, and my favorite: EigenLayer Breakfasts 🍳☕️
+- DevCon, ETH Denver, Token2049, The Mu, MegaZu, and my favorite: EigenLayer Breakfasts 🍳☕️
 
 
 ![Clipboard-20250508-193937-060](https://github.com/user-attachments/assets/dead7b2f-5833-4e03-a091-bcf311fb5abc)
