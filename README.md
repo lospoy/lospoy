@@ -1,5 +1,3 @@
-# Hi, I'm Carlos 👋
-
 I'm passionate about distributed systems, AI verification, and building bridges between complex technology and developer communities.
 
 ## Current Focus
