@@ -1,16 +1,16 @@
-I'm passionate about distributed systems, AI verification, and building bridges between complex technology and developer communities.
+#### I'm passionate about distributed systems, verification, and building bridges between complex technology and developer communities.
 
-## Current Focus
+### Current Focus
 - Verification systems
 - AI model attestation and probabilistic verification
 - Decentralized infrastructure
 
-## Featured Output
+### Featured Output
 - 📄 [Trust, But Verify](https://arxiv.org/abs/2504.13443) - Research on verifiable AI model execution
 - 🔍 [nolais.xyz](https://nolais.xyz) - Interactive visualization tool for probabilistic attestation
 - 🛠️ [Node Benchmarking Tool](https://github.com/lospoy/NodeBench) - Performance analysis for decentralized nodes
 
-## Find Me Around
+### Find Me Around
 - Writing about verification on [Medium](https://medium.com/@lospoy)
 - Building with the [Astoria Tech](https://www.meetup.com/astoria-tech-meetup/) community
 - DevCon, ETH Denver, Token2049, ECC, MegaZu, and my favorite: EigenLayer Breakfasts 🍳☕️
