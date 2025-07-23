@@ -1,4 +1,4 @@
-#### I'm passionate about distributed systems, verification, and building bridges between complex technology and developer communities.
+#### I'm passionate about distributed systems, verification, and building bridges between product, technology, and communities.
 
 ### Current Focus
 - Verification systems
